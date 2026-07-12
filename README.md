@@ -142,6 +142,13 @@ SPK-MAK Technologies
 
 ---
 
+# 📄 Resume
+
+You can download my latest Data Analyst Resume here.
+
+📥 **Resume:**  
+[Pratyush_Mishra_Resume.pdf](https://github.com/PratyushMishra5577/Acivements/blob/13d57ead505c27516776e7ef8ea259e8d9a21eb6/Pratyush%20Mishra%20Resume.pdf)
+
 # 📫 Connect With Me
 
 📧 Email
