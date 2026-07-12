@@ -125,6 +125,7 @@ SPK-MAK Technologies
 
 - SQL for Data Analysis
 - Data Analysis Bootcamp (GUVI | IBM)
+  ![image alt](https://github.com/PratyushMishra5577/Acivements/blob/ba31a0b37f87dc7a38d29d5ef23694f962771fdf/DATA%20ANALYSIS%20CERTIFICATE.jpeg)
 
 ---
 
